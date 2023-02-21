@@ -5,4 +5,4 @@ title: RBR Co Driver Mod
 description: [A short description of your site's purpose]
 show_downloads: true
 github:
-  zip_url: https://github.com/rbrdarren/rbrdarren.github.io/releases/latest/download/asset-name.zip
+  zip_url: https://github.com/rbrdarren/rbrdarren.github.io/releases/tag/release
